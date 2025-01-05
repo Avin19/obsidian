@@ -1,0 +1,1 @@
+Object is instance of [[Class]] 

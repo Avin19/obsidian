@@ -1,0 +1,2 @@
+*  The fundamental objects in Unity, representing characters, props, lights etc. Everything in a scene is a GameObject.
+* Every GameObjects has a [[Transform]] component that defines it position, rotation, and scale in the game world. 

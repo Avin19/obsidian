@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "bb839f417acaa28e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5003292fcefe154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63dddb8bdb8116f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c85b592467280f00",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c2a6e3ba94afff18",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e6cc2585bf227d60",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "54c6cc6092ab59a7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a87a688eb204c189",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7c51f776543cec78",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b6c3200591fc528b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Csharp/Oops Concept.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "93f9ac2600cdfb7e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Csharp/Oops Concept.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "57fe901e5bad16fc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Csharp/Oops Concept.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2a6e3ba94afff18",
+  "lastOpenFiles": [
+    "forces.md",
+    "Csharp/Untitled.canvas",
+    "Csharp/Oops Concept.md",
+    "Csharp/Class.md",
+    "Csharp/Abstract class.md",
+    "Csharp/Abstract.md",
+    "Csharp/Static class.md",
+    "Unity/Unity Editor.md",
+    "CF.md",
+    "Expenses/Untitled.canvas",
+    "Expenses/Sept.md",
+    "Untitled 1",
+    "Expenses",
+    "MyNote/2024-09-14.md",
+    "Expenses/Buy/Buy stuff.md",
+    "_DelSyncFiles/MyNote/Ideas/Ideas.md",
+    "_DelSyncFiles/MyNote/Ideas",
+    "_DelSyncFiles/MyNote",
+    "Unity/Prefabs.md",
+    "Unity/MonoBehaviour.md",
+    "Unity/Scripting.md",
+    "Unity/FixedUpdate().md",
+    "Ink/Drawing/2024.9.13 - 0.24am.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Constructor.md",
+    "Csharp/Variable.md",
+    "Csharp/Object.md",
+    "Unity/GameObjects.md",
+    "Unity/Perfabs.md",
+    "MyNote/Ideas/Ideas.md",
+    "Unity/Basic Understanding ..md",
+    "_DelSyncFiles",
+    "MyNote/Ideas/2024-09-12.md",
+    "_DelSyncFiles/Buy/Buy stuff.md",
+    "_DelSyncFiles/Buy",
+    "Unity",
+    "Buy stuff.md",
+    "MyNote/Ideas/Untitled.canvas"
+  ]
+}

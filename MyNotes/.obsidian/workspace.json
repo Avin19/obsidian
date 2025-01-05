@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "cab5e1be05933ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "190339f5ecf6dd25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d243efa7b8cad7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobile Ads Mob.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mobile Ads Mob"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d3f9f702ebeb993",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa14d2762e4ffa2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0d4007fc5bc6e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc874bca990fa6cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "camera",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cec8744dbf6fde09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd6d6bd482456341",
+    "type": "split",
+    "children": [
+      {
+        "id": "406e811fe6a26a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38cffbaa01660f24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Csharp/Abstract class.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstract class"
+            }
+          },
+          {
+            "id": "981d8141620b0fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Csharp/Abstract class.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abstract class"
+            }
+          },
+          {
+            "id": "3f3a20e881928558",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8ab04e3525a9d35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Csharp/Abstract class.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Abstract class"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d243efa7b8cad7aa",
+  "lastOpenFiles": [
+    "Mobile Ads Mob.md",
+    "Csharp/Inheritance.md",
+    "JSON Parse.md",
+    "Csharp/Design Pattern/MVC Pattern.md",
+    "Untitled.canvas",
+    "DSA in Csharp.md",
+    "Csharp/Design Pattern/Factory Pattern.md",
+    "Csharp/Design Pattern/Object Pooling.md",
+    "GitHub.md",
+    "Csharp/Design Pattern/Command Pattern.md",
+    "Csharp/Design Pattern/State Machine.md",
+    "Csharp/Abstract class.md",
+    "Csharp/Design Pattern/Observer Pattern.md",
+    "Csharp/Design Pattern/Singleton Pattern.md",
+    "Csharp/Design Pattern/Design Pattern.md",
+    "Meeting.md",
+    "camera.md",
+    "Unity/Unity Editor.md",
+    "Unity/Scripting/Update().md",
+    "Unity/Scripting/Update() vs FixedUpdate() vs LateUpdate().md",
+    "Unity/Coroutines.md",
+    "Unity/Rotation.md",
+    "Unity/yield.md",
+    "Unity/Concept/Rigidbody.md",
+    "Csharp/Design Pattern/Dependency Injection.md",
+    "Csharp/Design Pattern/Singleton/Untitled.md",
+    "Csharp/Design Pattern/Singleton",
+    "Csharp/Design Pattern",
+    "Unity/Concept/Transform.md",
+    "Unity/Concept",
+    "Unity/Scripting",
+    "tmpsfp",
+    "Templets",
+    "MyNote/Ideas/Untitled.canvas"
+  ]
+}
