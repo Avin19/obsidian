@@ -54,7 +54,8 @@ Using the Inspector window , we will rename the GroupBox to MainGroupBox.
 
 Add another GroupBox, which will be a child , to the #MainGroupBox. Rename it #TextGroupBox.
 
-![[UI ToolKit-16]]
+![[UI ToolKit-16.png]]
+
 From the Library -> Controls window, drag a Label element and place it inside the TextGroupBox and rename the Label  to scoretxt.
 
 ![[UI ToolKit-8.png]]
