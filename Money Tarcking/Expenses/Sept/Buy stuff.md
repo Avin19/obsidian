@@ -1,6 +1,0 @@
-- [ ] Printer 3D Bamboo Lab A1 
-- [ ] Sleep matters 
-- [ ]  Fitness Ring
-- [ ]  Double tape with well crow - mounting ssd 
-- [ ] Alexa tv setup and couple of wifi plug
-- [ ] 
